@@ -28,5 +28,9 @@ between supplementary modules.
 
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/7afe9fe0-3bef-4b60-aea8-3b8a2bd8c481)
+The image below features a pin view of the Motherboard PCB. This is the exact layout and shape of 
+the motherboard. You will design your sensor and power PCBs to fit onto the sensor and power 
+connections.
+
 
 
