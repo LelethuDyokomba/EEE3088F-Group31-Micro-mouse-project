@@ -63,7 +63,7 @@ The module needs:
 
 
 
-> - To operate 2 motors with the pins available to you (listed in Table 3). You will need to 
+> - To operate 2 motors with the pins available (listed in Table 3). Needs to 
 control 2x motors which could each draw 200mA at the highest voltage of a 1S1P battery 
 (the battery is further specified in the battery section). 
 > - Needs to provide an analog connection that provides information on the battery's voltage 
@@ -71,3 +71,9 @@ for the processor to sense battery state of charge (SoC).
 > - Needs to charge the battery from the 5V input pin (listed in Table 3).
 > - Needs an ON/OFF switch. OFF state: battery draw <500uA. ON state: ther robot peak 
 current.
+
+Additionally, the following connectors need to be included:
+1. A JST PH 2mm pin pitch connector for the battery. The battery will either be tucked away 
+between the motherboard PCB and the processor PCB or secured to the bottom of the 
+motherboard.
+2. A 2x8 (2.54mm pin pitch) pin header as shown in the image below:
