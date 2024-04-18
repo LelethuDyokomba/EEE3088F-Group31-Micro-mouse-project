@@ -124,6 +124,7 @@ what you would need to do on your module to meet the requirements.
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b3fcf4b7-49c3-4bfd-bec4-13e8574b2da1)
 
+The battery will be: [Battery LiPo 800mAh 3.7V - Micro Robotics](https://www.robotics.org.za/802540)
 
 
 
