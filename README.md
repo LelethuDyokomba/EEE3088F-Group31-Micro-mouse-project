@@ -5,11 +5,13 @@
 A micromouse is an autonomous robot designed to navigate and solve a maize as quickly as possible. More abstractly, a micromouse is a maze-solving robot or an autonomous maze navigator. To gain context of what a micromouse is, watch [this](https://www.youtube.com/watch?v=ZMQbHMgK2rw) video.
 
 ### Project Overview
-This project is all about designing some subassemblies for a (simplified) micro-mouse. The (simplified) micromouse has four modules, namely: the processor, motherboard, sensing and power. This project is solely focused on creating the power and sensing subsystems that will collaborate with the rest of the micro-mouse's other subsystems (that have already been designed). 
+This project is all about designing some subassemblies for a (simplified) micro-mouse. The (simplified) micromouse has four modules, namely: the processor, motherboard, sensing and power. This project is solely focused on making PCB designs of the power and sensing subsystems that will collaborate with the rest of the micro-mouse's other subsystems (that have already been designed). 
 
 ## Exposition of each module
 
-- **The motherboard**:
+- **The motherboard**: The given motherboard is responsible for connecting all the 
+                       subsystems/PCBs together. It is the base board that all other modules will slot onto.
+
 - **The processor**:
 - **The power**:
 - **The sensor**:
