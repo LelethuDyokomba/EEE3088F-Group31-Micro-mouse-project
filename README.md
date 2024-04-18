@@ -59,7 +59,5 @@ The following table highlights the pinouts of the processor board:
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/7cae4ada-2729-455e-9e60-5ac30e41fabb)
 
-
-
 The module needs:
 
