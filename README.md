@@ -68,7 +68,6 @@ control 2x motors which could each draw 200mA at the highest voltage of a 1S1P b
 (the battery is further specified in the battery section). 
 > - Needs to provide an analog connection that provides information on the battery's voltage 
 for the processor to sense battery state of charge (SoC). 
-> - Needs to charge the battery from the 5V input pin (listed in Table 3). Hint: What happens 
-when 5V removed?
+> - Needs to charge the battery from the 5V input pin (listed in Table 3).
 > - Needs an ON/OFF switch. OFF state: battery draw <500uA. ON state: your robot peak 
 current.
