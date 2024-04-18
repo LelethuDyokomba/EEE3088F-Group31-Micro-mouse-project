@@ -136,6 +136,7 @@ An example is provided below:
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/67a9b0d7-7ad5-41ad-923a-0d06a8d30134)
 
 ## Resources
+- [ST PH 2mm pin pitch](https://www.robotics.org.za/JST-PH-2P-90?search=jst)
 - By going through this README, you should have a clear understanding of the project and its purpose. All other resources are provided within the project repositories. The additional resources include the datasheets, literatures explaining some of the operation principles of this robot, Gerbers, the Bill of Materials (BOM), The POS/CPL file, the project brief document, etc. 
 
 ## Conclusion
