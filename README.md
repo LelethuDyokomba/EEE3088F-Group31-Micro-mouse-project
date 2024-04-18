@@ -18,7 +18,7 @@ these have already been dictated by the required interconnections
 between supplementary modules.
 
 - **The power**: This module is responsible for powering the entire system. For this project, this is the subsystem that is being designed. This subsystem should be designed such that it meets the given requirements. A high-level description of the requirements is as follows:
->It needs to run the motors and charge a battery.
->It will need to fit onto the pin headers on the motherboard.
->It will need to be an appropriate size for the robot.
+>-It needs to run the motors and charge a battery.
+>-It will need to fit onto the pin headers on the motherboard.
+>-It will need to be an appropriate size for the robot.
 - **The sensor**:
