@@ -77,3 +77,8 @@ Additionally, the following connectors need to be included:
 between the motherboard PCB and the processor PCB or secured to the bottom of the 
 motherboard.
 2. A 2x8 (2.54mm pin pitch) pin header as shown in the image below:
+
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b59e1451-9cf9-4044-9dbc-8c0000b0202e)
+
+
+
