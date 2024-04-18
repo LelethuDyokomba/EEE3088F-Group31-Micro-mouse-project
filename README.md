@@ -132,7 +132,7 @@ max draw and from full to fully discharged in 2 hours.
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/8fa658cb-e68d-4cca-a349-9c62b386a282)
 
-The cost of the components should not be more $8.25 per board, per subsystem. 
+The cost of the components should not be more than $8.25 per board, per subsystem. 
 
 
 
