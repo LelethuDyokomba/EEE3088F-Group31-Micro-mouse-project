@@ -1,4 +1,4 @@
-# EEE3088F-Group31-Micro-mouse-project
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b003630e-2631-4a53-bc8a-122f94a03446)# EEE3088F-Group31-Micro-mouse-project
 
 ![R](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/01f54a60-e836-4ba0-82be-355d683afa89)
 ### What is a micro-mouse? 
@@ -84,9 +84,9 @@ motherboard.
 a tab) as the motors and connections would collide otherwise. The height of the 
 tab can be 18mm or greater, the width can be no greater than 35mm and the 
 connector should be centered in this tab.
-2. Additionally, you want to minimize the maximum distance of your robot from 
-the center of rotation (indicated on the MM motherboard PCB). Essentially this 
-means that you want to make your PCB as small as possible.
+2. Additionally, the distance of the robot from 
+the center of rotation (indicated on the MM motherboard PCB) should be minimised . Essentially this 
+means that the PCB should be as small as possible.
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/4b030318-a4d9-4f70-927f-ef3557e2c637)
 
