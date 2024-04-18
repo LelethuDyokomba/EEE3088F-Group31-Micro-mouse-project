@@ -7,7 +7,7 @@ A micromouse is an autonomous robot designed to navigate and solve a maize as qu
 ### Project Overview
 This project is all about designing some subassemblies for a (simplified) micro-mouse. The (simplified) micromouse has four modules, namely: the processor, motherboard, sensing and power. This project is solely focused on creating the power and sensing subsystems that will collaborate with the rest of the micro-mouse's other subsystems (that have already been designed). 
 
-## Exposition of each module-
+## Exposition of each module
 
 - **The motherboard**
 - **The processor**
