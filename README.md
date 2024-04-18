@@ -42,7 +42,7 @@ connections.<br>
 This processor board has a STM32L476 microcontroller on 
 it. The images below depict the 3D PCB render and the schematic of the processor board.
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/d1a7982e-c805-49c5-833b-fe3de31666cf)
-<br>
+
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/52f1492b-0533-4ee8-ab60-ed8f3f5ea6c3)
 
 
