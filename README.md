@@ -80,5 +80,14 @@ motherboard.
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b59e1451-9cf9-4044-9dbc-8c0000b0202e)
 
+1. The Connector does NEED to be proud of the resulting board (i.e. needs to have 
+a tab) as the motors and connections would collide otherwise. The height of the 
+tab can be 18mm or greater, the width can be no greater than 35mm and the 
+connector should be centered in this tab.
+2. Additionally, you want to minimize the maximum distance of your robot from 
+the center of rotation (indicated on the MM motherboard PCB). Essentially this 
+means that you want to make your PCB as small as possible.
+
+
 
 
