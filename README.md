@@ -61,3 +61,5 @@ The following table highlights the pinouts of the processor board:
 
 
 
+The module needs:
+
