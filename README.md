@@ -55,3 +55,6 @@ it. The images below depict the 3D PCB render and the schematic of the processor
 The following table highlights the pinouts of the processor board:
 
 
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/81c4b08b-91aa-4e75-834b-3b6eeaf94b0b)
+
+
