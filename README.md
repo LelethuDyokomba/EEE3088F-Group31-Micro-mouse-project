@@ -1,4 +1,4 @@
-![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b003630e-2631-4a53-bc8a-122f94a03446)# EEE3088F-Group31-Micro-mouse-project
+# EEE3088F-Group31-Micro-mouse-project
 
 ![R](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/01f54a60-e836-4ba0-82be-355d683afa89)
 ### What is a micro-mouse? 
