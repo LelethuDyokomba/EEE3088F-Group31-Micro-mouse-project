@@ -88,6 +88,13 @@ connector should be centered in this tab.
 the center of rotation (indicated on the MM motherboard PCB). Essentially this 
 means that you want to make your PCB as small as possible.
 
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/4b030318-a4d9-4f70-927f-ef3557e2c637)
+
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/1355dcf3-603c-411b-8b57-a68655348e9b)
+
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/3c34bb09-300b-4bd7-9213-661b24ba54c8)
+
+
 
 
 
