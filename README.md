@@ -111,8 +111,7 @@ It will need to fit onto the 2x14 connection standard and be an appropriate size
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/3e719db9-1f50-4191-b04f-699a5e8c34bf)
 
-To be successful, you will need to understand how your component fits into the greater picture and 
-what you would need to do on your module to meet the requirements.
+
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b3fcf4b7-49c3-4bfd-bec4-13e8574b2da1)
 
