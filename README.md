@@ -5,7 +5,7 @@
 A micromouse is an autonomous robot designed to navigate and solve a maize as quickly as possible. More abstractly, a micromouse is a maze-solving robot or an autonomous maze navigator. To gain context of what a micromouse is, watch [this](https://www.youtube.com/watch?v=ZMQbHMgK2rw) video.
 
 ### Project Overview
-This project is all about designing some subassemblies for a (simplified) micro-mouse. The (simplified) micromouse has four modules, namely: the processor, motherboard, sensing and power. This project is solely focused on making PCB designs of the power and sensing subsystems that will collaborate with the rest of the micro-mouse's other subsystems (that have already been designed). 
+This project is all about designing some subassemblies for a (simplified) micro-mouse. The (simplified) micromouse has four modules, namely: the processor, motherboard, sensing and power. This project is solely focused on designing and manufacturing the power and sensing subsystems that will collaborate with the rest of the micro-mouse's other subsystems (that have already been designed). 
 
 ## Exposition of each module
 
@@ -17,8 +17,12 @@ pin package and has 78 output pins that are available to use, the subsystems wil
 these have already been dictated by the required interconnections 
 between supplementary modules.
 
-- **The power**: This module is responsible for powering the entire system. For this project, this is the subsystem that is being designed. This subsystem should be designed such that it meets the given requirements. A high-level description of the requirements is as follows:
+- **The power**: This module is responsible for powering the entire system. For this project, this is the subsystem that is being designed and manufactured. This subsystem should be designed such that it meets the given requirements. A high-level description of the requirements is as follows:
 > - It needs to run the motors and charge a battery.
 > - It will need to fit onto the pin headers on the motherboard.
 > - It will need to be an appropriate size for the robot.
-- **The sensor**:
+- **The sensor**: This module will be responsible for detecting/sensing objects. For this project, this is the subsystem that is being designed and manufactured. This subsystem should be designed such that it meets the given requirements. A high-level description of the requirements is as follows:
+▪ It needs to detect objects.
+▪ It will need to fit onto the pin headers on the motherboard.
+▪ It will need to be an appropriate size for the robot.
+
