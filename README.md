@@ -113,5 +113,7 @@ LEDs will be on.
 The following image is a template of the board shape, but the arc and design are not necessarily an 
 optimal solution
 
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b6e12ab6-651d-4dde-8450-9d7a1347aec1)
+
 
 
