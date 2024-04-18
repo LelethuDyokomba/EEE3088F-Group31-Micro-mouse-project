@@ -27,7 +27,7 @@ between supplementary modules.
 > - It will need to be an appropriate size for the robot.
 
 ## Requirements and specifications of the subsystems
-<br>
+
 - **The motherboard**:
 
 
