@@ -39,6 +39,7 @@ connections.<br>
 
 - ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/46b3d521-76cb-4023-8c0c-0a425f7fddc4)
 
-
+As discussed before, you will be receiving a processor board with the STM32L476 microcontroller on 
+it. The images below depict the 3D PCB render and the schematic of the processor board.
 
 
