@@ -145,7 +145,7 @@ An example is provided below:
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/67a9b0d7-7ad5-41ad-923a-0d06a8d30134)
 
 ## Resources
-- By going through this README, you should have a clear understanding of the project and its purpose
+- By going through this README, you should have a clear understanding of the project and its purpose. All other resources are provided within the project repositories. The additional resources range from
 
 ## Conclusion
 This README A detailed description of the project and its purpose.
