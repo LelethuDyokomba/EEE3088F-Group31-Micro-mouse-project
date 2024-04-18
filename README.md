@@ -28,7 +28,7 @@ between supplementary modules.
 
 ## Requirements and specifications of the subsystems
 
-- **The motherboard**:
+
 
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/7afe9fe0-3bef-4b60-aea8-3b8a2bd8c481)<br>
@@ -37,7 +37,6 @@ the motherboard. The sensor and power PCBs will be designed to fit onto the sens
 connections.<br>
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/c8e6e336-e12f-4789-9774-9814666661b1)
 
-- **The processor**:
 - ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/46b3d521-76cb-4023-8c0c-0a425f7fddc4)
 
 
