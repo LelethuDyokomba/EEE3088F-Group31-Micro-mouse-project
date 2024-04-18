@@ -1,4 +1,5 @@
-# EEE3088F-Group31-Micro-mouse-project
+## EEE3088F-Group31-Micro-mouse-project
+
 
 This project is all about designing some subassemblies for a (simplified) micro-mouse. Particularly, it entails designing and manufacturing the sensor and power modules/subsystems.
 
