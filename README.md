@@ -109,6 +109,7 @@ wall. The processor board has 3 LEDs (so you do not need to add LEDs for this pu
 your sensing board). Use 1 to indicate a wall is sensed on the right, 1 to indicate that there is 
 a wall on the left and 1 to indicate a wall in front of the robot. If no wall is sensed, then no 
 LEDs will be on.
+<br>
 The following image is a template of the board shape, but the arc and design are not necessarily an 
 optimal solution
 
