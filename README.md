@@ -12,6 +12,10 @@ This project is all about designing some subassemblies for a (simplified) micro-
 - **The motherboard**: The given motherboard is responsible for connecting all the 
                        subsystems/PCBs together. It is the base board that all other modules will slot onto.
 
-- **The processor**:
+- **The processor**: The processor board has a STM32L476. It is a 100-
+pin package and has 78 output pins that are available to use, the subsystems will interface with the microcontroler through these pins. Most of 
+these have already been dictated by the required interconnections 
+between supplementary modules.
+
 - **The power**:
 - **The sensor**:
