@@ -98,7 +98,7 @@ means that the PCB should be as small as possible.
 The sensor PCB is effectively the “eyes” of your robot. This subsystem will provide information to 
 the processor to determine whether there is an obstruction in the way of the MM. This submodule 
 needs to:
-> - Detect whether there is an obstacle in front of the robot (probably on the sides too).
+> - Detect whether there is an obstacle in front of the robot.
 > - Have switching means to save power when not in operation.
 
 <br>
