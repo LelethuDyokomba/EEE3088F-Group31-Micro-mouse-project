@@ -52,4 +52,6 @@ it. The images below depict the 3D PCB render and the schematic of the processor
 
 
 
+The following table highlights the pinouts of the processor board:
+
 
