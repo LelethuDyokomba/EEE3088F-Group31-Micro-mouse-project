@@ -134,6 +134,20 @@ max draw and from full to fully discharged in 2 hours.
 
 The cost of the components should not be more than $8.25 per board, per subsystem. 
 
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/8077ae40-aeba-4be8-b2c6-678ee8d7709a)
+
+The maze will have dead ends, multiple paths to the finishing area with each pixel being a 200mm 
+square.
+
+An example is provided below:
+
+
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/67a9b0d7-7ad5-41ad-923a-0d06a8d30134)
+
+## Resources
+
+
+
 
 
 
