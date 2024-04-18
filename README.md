@@ -137,10 +137,10 @@ An example is provided below:
 
 ## Resources
 - [ST PH 2mm pin pitch](https://www.robotics.org.za/JST-PH-2P-90?search=jst)
-- By going through this README, you should have a clear understanding of the project and its purpose. All other resources are provided within the project repositories. The additional resources include the datasheets, literatures explaining some of the operation principles of this robot, Gerbers, the Bill of Materials (BOM), The POS/CPL file, the project brief document, etc. 
+- All other resources are provided within the project repositories. The additional resources include the datasheets, literatures explaining some of the operation principles of this robot, Gerbers, the Bill of Materials (BOM), The POS/CPL file, the project brief document, etc. 
 
 ## Conclusion
-This README has a  detailed description of the project and its purpose. Other project specifics can be found on the project documentation...
+By going through this README, you should have a clear understanding of the project and its purpose. Other project specifics can be found on the project documentation...
 
 
 
