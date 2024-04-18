@@ -26,3 +26,4 @@ between supplementary modules.
 ▪ It will need to fit onto the pin headers on the motherboard.
 ▪ It will need to be an appropriate size for the robot.
 
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/9b3bee31-2196-483a-9ce8-694500474236)
