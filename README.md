@@ -9,7 +9,7 @@ This project is all about designing some subassemblies for a (simplified) micro-
 
 ## Exposition of each module
 
-- **The motherboard**
-- **The processor**
-- **The power**
-- **The sensor**
+- **The motherboard**:
+- **The processor**:
+- **The power**:
+- **The sensor**:
