@@ -115,7 +115,7 @@ It will need to fit onto the 2x14 connection standard and be an appropriate size
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/b3fcf4b7-49c3-4bfd-bec4-13e8574b2da1)
 
-The battery will be: [Battery LiPo 800mAh 3.7V - Micro Robotics](https://www.robotics.org.za/802540)
+The battery is a: [Battery LiPo 800mAh 3.7V - Micro Robotics](https://www.robotics.org.za/802540)
 
 Typically, the max discharge should be kept at 0.5C (Capacity) for this type of battery. This implies 400mA 
 max draw and from full to fully discharged in 2 hours. 
