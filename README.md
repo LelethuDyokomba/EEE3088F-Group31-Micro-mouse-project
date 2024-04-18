@@ -148,7 +148,7 @@ An example is provided below:
 - By going through this README, you should have a clear understanding of the project and its purpose. All other resources are provided within the project repositories. The additional resources include the datasheets, literatures explaining some of the operation principles of this robot, Gerbers, the Bill of Materials (BOM), The POS/CPL file, the project brief document, etc. 
 
 ## Conclusion
-This README A detailed description of the project and its purpose.
+This README has a  detailed description of the project and its purpose. Other project specifics can be found on the project documentation.
 
 
 
