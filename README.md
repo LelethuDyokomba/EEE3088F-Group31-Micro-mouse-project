@@ -126,6 +126,14 @@ what you would need to do on your module to meet the requirements.
 
 The battery will be: [Battery LiPo 800mAh 3.7V - Micro Robotics](https://www.robotics.org.za/802540)
 
+Typically, the max discharge should be kept at 0.5C (Capacity) for this type of battery. This implies 400mA 
+max draw and from full to fully discharged in 2 hours. 
+
+
+![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/8fa658cb-e68d-4cca-a349-9c62b386a282)
+
+The cost of the components should  not be more $8.25 per board, per subsystem. 
+
 
 
 
