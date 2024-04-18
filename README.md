@@ -37,6 +37,9 @@ the motherboard. The sensor and power PCBs will be designed to fit onto the sens
 connections.<br>
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/c8e6e336-e12f-4789-9774-9814666661b1)
 
+- **The processor**:
+- ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/46b3d521-76cb-4023-8c0c-0a425f7fddc4)
+
 
 
 
