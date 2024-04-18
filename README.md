@@ -146,8 +146,7 @@ An example is provided below:
 
 ## Resources
 
-
-
+The full project brief can be found [here](file:///C:/Users/lelet/Downloads/EEE3088F_2024_project_description_v12.pdf)
 
 
 
