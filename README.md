@@ -27,7 +27,7 @@ between supplementary modules.
 > - It will need to be an appropriate size for the robot.
 
 <br>
-##Finer details of the expositions
+## Finer details of the expositions
 
 ![image](https://github.com/LelethuDyokomba/EEE3088F-Group31-Micro-mouse-project/assets/163681208/7afe9fe0-3bef-4b60-aea8-3b8a2bd8c481)<br>
 The image below features a pin view of the Motherboard PCB. This is the exact layout and shape of 
